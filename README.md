@@ -30,7 +30,7 @@ To run these programs, you need:
 
 ---
 
-## ▶️ How to Run the Programs
+## How to Run the Programs
 
 1. Clone the repository:
 
