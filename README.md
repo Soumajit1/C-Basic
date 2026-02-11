@@ -1,4 +1,4 @@
-# Basic C Programs 🧑‍💻
+# Basic C Programs
 
 This repository contains **basic C programs** uploaded for learning, practice, and revision of core **C programming concepts**. It is suitable for beginners who are starting with C as well as for quick reference before exams or interviews.
 
