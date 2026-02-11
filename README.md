@@ -20,7 +20,7 @@ Each file focuses on **one concept** to keep the code easy to understand.
 
 ---
 
-## 🛠️ Requirements
+## 🛠️ equirements
 
 To run these programs, you need:
 
